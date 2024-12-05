@@ -1,0 +1,9 @@
+main: me.Mastervrunner.Hello_World.Main
+name: HelloWorld
+version: 1.0
+author: Me(MasterV)
+
+commands:
+  Hello:
+    description:
+      Hello!
